@@ -1,0 +1,33 @@
+SLOTS
+
+From/TO
+
+---
+Jannali: 10101344 - (1010): PST 1344 in stop.csv  (location type: 1)
+(agency id - syd trains: x0001)
+Central: 10101100
+----
+https://transportnsw.info/web/XML_TRIP_REQUEST2?TfNSWTR=true&exclMOT_11=1&excludedMeans=checkbox&itOptionsActive=1&language=en&
+name_destination=10101100&name_origin=10101359&outputFormat=rapidJSON&ptOptionsActive=1&routeType=leasttime&tLS=ascending&trITMOT=100&trITMOTvalue=20&type_destination=any&type_origin=any&useProxFootSearch=1&useUT=1&version=10.2.2.48
+
+----
+https://transportnsw.info/web/XML_STOPFINDER_REQUEST?
+TfNSWSF=true&
+language=en&
+name_sf=Jannali+Station,+Jannali&
+outputFormat=rapidJSON&
+type_sf=any&version=10.2.2.48
+
+-----
+LOGIC
+-----
+get CSV files with all stops - eliminate all duplicates
+store in file
+
+-----
+build app - that reads through it.
+add feature: lookup stop-id
+add feature: write to file
+add feature: convert to csv
+write file
+----------------------------

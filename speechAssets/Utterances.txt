@@ -1,0 +1,17 @@
+GetTrainTripIntent The next train from {from} to {to}
+GetTrainTripIntent For the next train from {from} to {to}
+GetTrainTripIntent For when is my next train from {from} to {to}
+GetTrainTripIntent The next train from {from} to {to}
+GetTrainTripIntent Next train from {from} to {to}
+GetTrainTripIntent When is my next train from {from} to {to}
+GetTrainTripIntent When does my next train go from {from} to {to}
+GetTrainTripIntent When would be my next train from {from} to {to}
+GetTrainTripIntent What is my next train from {from} to {to}
+GetTrainTripIntent When is the next train from {from} to {to}
+GetTrainTripIntent When does the next train go from {from} to {to}
+GetTrainTripIntent When would be the next train from {from} to {to}
+GetTrainTripIntent When does the next train depart from {from} to {to}
+GetTrainTripIntent When the next train from {from} to {to}
+GetTrainTripIntent When the next train is from {from} to {to}
+GetTrainTripIntent What is the next train from {from} to {to}
+GetTrainTripIntent Whe can I get from {from} to {to}

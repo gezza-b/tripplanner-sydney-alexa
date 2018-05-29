@@ -1,0 +1,369 @@
+Waterfall
+Heathcote
+Otford
+Helensburgh
+Cronulla
+Woolooware
+Engadine
+Loftus
+Coalcliff
+Stanwell Park
+Edmondson Park
+Shellharbour Junction
+St Peters
+Leppington
+Walcha Road
+Kootingal
+Geurie
+Melbourne
+Griffith
+Euabalong West
+Stuart Town
+Broadmeadow
+Waratah
+Beecroft
+Pennant Hills
+Thornleigh
+Normanhurst
+Scone
+Aberdeen
+Muswellbrook
+Singleton
+Eastwood
+Cheltenham
+Rosehill
+Clyde
+Rydalmere
+Camellia
+Telopea
+Dundas
+Carlingford
+Parramatta
+Harris Park
+Harden
+Willow Tree
+Darnick
+Lindfield
+Roseville
+Chatswood
+Artarmon
+St Leonards
+Wollstonecraft
+Waverton
+North Sydney
+Milsons Point
+Moss Vale
+Burradoo
+Yerrinbool
+Bargo
+Panania
+East Hills
+Padstow
+Revesby
+Narwee
+Riverwood
+Kingsgrove
+Beverly Hills
+Bardwell Park
+Bexley North
+Kiama
+Gerringong
+Minnamurra
+Oak Flats
+Albion Park
+Berry
+Bomaderry
+Woy Woy
+Koolewong
+Pendle Hill
+Toongabbie
+Westmead
+Wentworthville
+Bellata
+Narrabri
+Junee
+Kempsey
+Coolamon
+Kendall
+Wauchope
+Wagga Wagga
+Eungai
+Tarana
+Bell
+Zig Zag
+Blackheath
+Mount Victoria
+Lithgow
+Maitland
+Carlton
+Rockdale
+Banksia
+Arncliffe
+Sydney Domestic Airport
+Hurstville
+Allawah
+Woodford
+Narara
+Niagara Park
+Lisarow
+Ourimbah
+Tuggerah
+Wyong
+Warnervale
+Wyee
+Morisset
+Dora Creek
+Towradgi
+Bulli
+Bellambi
+Macquarie Park
+Macquarie University
+Dapto
+Olympic Park
+Coledale
+Redfern
+Holsworthy
+Epping
+North Ryde
+Telarah
+Victoria Street
+Metford
+High Street
+Wellington
+St Marys
+Mount Druitt
+Clarendon
+Windsor
+Mulgrave
+Vineyard
+Rooty Hill
+Doonside
+Richmond
+East Richmond
+Hawkesbury River
+Gosford
+Point Clare
+Berowra
+Mount Kuring-gai
+Cowan
+Wondabyne
+Tascott
+Sydney International Airport
+Mascot
+Corrimal
+Scarborough
+Wombarra
+Austinmer
+Thirroul
+Woonona
+Granville
+Orange
+Canberra
+Uralla
+Leeton
+Queanbeyan
+Albury
+Armidale
+Narrandera
+Henty
+Gloucester
+Newtown
+Macdonaldtown
+Homebush
+Flemington
+Summer Hill
+Lewisham
+Petersham
+Wahroonga
+Pymble
+Turramurra
+Killara
+Menangle Park
+Menangle
+Minto
+Leumeah
+Campbelltown
+Macarthur
+Casula
+Glenfield
+Macquarie Fields
+Ingleburn
+Marulan
+Penrose
+Bundanoon
+Wingello
+Warabrook
+Sandgate
+Hamilton
+Bankstown
+Punchbowl
+Birrong
+Yagoona
+Chester Hill
+Sefton
+Villawood
+Leightonfield
+Turrella
+Carramar
+Medlow Bath
+Katoomba
+Wiley Park
+Lakemba
+Regents Park
+Berala
+Dulwich Hill
+Marrickville
+Canterbury
+Hurlstone Park
+Belmore
+Campsie
+Rydal
+Macksville
+Cootamundra
+Moree
+Parkes
+Werris Creek
+Boggabri
+Gunnedah
+Nambucca Heads
+Quirindi
+Bullaburra
+Lawson
+Leura
+Wentworth Falls
+Linden
+Faulconbridge
+Hazelbrook
+Tallong
+Goulburn
+Kogarah
+Teralba
+Booragul
+Fassifern
+Awaba
+Cockle Creek
+Adamstown
+Kotara
+Stanmore
+Lidcombe
+Auburn
+Oatley
+Como
+Penshurst
+Mortdale
+Kirrawee
+Gymea
+Jannali
+Sutherland
+Miranda
+Caringbah
+Kyogle
+Sawtell
+Urunga
+Grafton
+Brisbane 
+Coffs Harbour
+Tamworth
+Menindee
+Broken Hill
+Murrurundi
+Ivanhoe
+Dubbo
+Wallarobba
+Wirragulla
+Dungog
+Lochinvar
+Mindaribba
+Paterson
+Martins Creek
+Hilldale
+Greta
+Branxton
+Schofields
+Riverstone
+Marayong
+Quakers Hill
+Seven Hills
+Blacktown
+Exeter
+Bowral
+Mittagong
+Tahmoor
+Douglas Park
+Picton
+Cardiff
+Edgecliff
+Bondi Junction
+Museum
+St James
+Martin Place
+Kings Cross
+Central
+Town Hall
+Wynyard
+Kembla Grange
+Unanderra
+Coniston
+Wollongong
+North Wollongong
+Fairy Meadow
+Port Kembla
+Port Kembla North
+Cringila
+Lysaghts
+Gunning
+Blayney
+Culcairn
+Wingham
+Bungendore
+The Rock
+Taree
+Tarago
+Condobolin
+Burwood
+Strathfield
+North Strathfield
+Concord West
+Rhodes
+Meadowbank
+West Ryde
+Denistone
+Ashfield
+Croydon
+Liverpool
+Warwick Farm
+Cabramatta
+Canley Vale
+Fairfield
+Yennora
+Guildford
+Merrylands
+Bathurst
+Erskineville
+Sydenham
+Tempe
+Wolli Creek
+Green Square
+East Maitland
+Tarro
+Hexham
+Thornton
+Beresfield
+Bombo
+Casino
+Waitara
+Hornsby
+Warrawee
+Gordon
+Valley Heights
+Springwood
+Werrington
+Kingswood
+Penrith
+Emu Plains
+Lapstone
+Glenbrook
+Blaxland
+Warrimoo
+Asquith
+Mount Colah

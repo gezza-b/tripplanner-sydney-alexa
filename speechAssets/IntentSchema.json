@@ -1,0 +1,26 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "GetNextTrainIntent"
+    },
+    {
+      "intent" : "GetTrainTripIntent",
+      "slots" : [
+        {
+          "name" : "from",
+          "type" : "LIST_OF_STATIONS"
+        },
+        {
+          "name" : "to",
+          "type" : "LIST_OF_STATIONS"
+        }
+      ]
+    }
+  ]
+}
